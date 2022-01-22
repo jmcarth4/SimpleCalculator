@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2020
 'Say My Name
-'UrleSFSdf;j
+'https://github.com/jmcarth4/SimpleCalculator
 
 Option Explicit On
 Option Strict On
